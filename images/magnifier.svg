@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="15"
+   width="15"
+   id="svg105"
+   version="1.1">
+  <metadata
+     id="metadata111">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs109" />
+  <g
+     transform="translate(0,-85)"
+     id="g103">
+    <polygon
+       transform="translate(0.70153058,86.757653)"
+       style="fill:#ffffff"
+       id="polygon99"
+       points="7.793,7.541 11.793,11.541 13.207,10.126 9.207,6.126 " />
+    <path
+       style="fill:#ffffff"
+       id="path101"
+       d="m 6.6185306,88.757653 c 1.608,0 2.917,1.308 2.917,2.917 0,1.609 -1.309,2.916 -2.917,2.916 -1.608,0 -2.917,-1.308 -2.917,-2.916 0,-1.608 1.308,-2.917 2.917,-2.917 m 0,-2 c -2.716,0 -4.917,2.201 -4.917,4.917 0,2.716 2.201,4.917 4.917,4.917 2.716,0 4.9170004,-2.201 4.9170004,-4.917 -0.001,-2.716 -2.2020004,-4.917 -4.9170004,-4.917 z" />
+  </g>
+</svg>
